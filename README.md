@@ -11,10 +11,6 @@ Je suis un développeur passionné par le dévelopement web, l'intelligence Arti
 - OS :  Windows, Linux, MacOS
 - Langues : Français, Anglais, Espagnol
 
-## 📈 Statistiques GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ton_nom_utilisateur&show_icons=true&theme=radical)
-
 ## 📫 Comment me contacter ?
 
 - Email : evanmanset1508@gmai.com
