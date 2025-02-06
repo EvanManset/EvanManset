@@ -1,4 +1,4 @@
-# Salut, je suis @EvanManset 👋
+# Salut, je suis EvanManset 👋
 
 Bienvenue sur mon profil GitHub !
 
