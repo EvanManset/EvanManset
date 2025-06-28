@@ -1,4 +1,4 @@
-# Salut, je suis EvanManset 👋
+# Salut, je suis Evan Manset 👋
 
 Bienvenue sur mon profil GitHub !
 
@@ -16,4 +16,4 @@ Je suis un développeur passionné par le dévelopement web, l'intelligence Arti
 - Email : evanmanset1508@gmai.com
 - LinkedIn : https://www.linkedin.com/in/evan-manset/
 
-Merci de visiter mon profil !
+Merci d'avoir visité mon profil !
