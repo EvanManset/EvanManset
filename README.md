@@ -13,7 +13,7 @@ Je suis un développeur passionné par le dévelopement web, l'intelligence Arti
 
 ## 📫 Comment me contacter ?
 
-- Email : evanmanset1508@gmai.com
+- Email : evanmanset1508@gmail.com
 - LinkedIn : https://www.linkedin.com/in/evan-manset/
 
 Merci d'avoir visité mon profil !
