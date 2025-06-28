@@ -2,7 +2,7 @@
 
 Bienvenue sur mon profil GitHub !
 
-Je suis un développeur passionné par le dévelopement web, l'intelligence Artificielle. J'aime travailler sur des projets qui me permettent d'apprendre et de repousser mes limites. 
+Je suis un développeur passionné par le dévelopement web, l'Intelligence Artificielle. J'aime travailler sur des projets qui me permettent d'apprendre et de repousser mes limites. 
 
 ## 🔧 Compétences
 
